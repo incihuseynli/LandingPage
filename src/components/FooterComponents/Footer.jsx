@@ -10,7 +10,10 @@ const Footer = () => {
       md:px-8 lg:px-16
       "
     >
-      <div className="grid grid-cols-1 place-items-center gap-10  md:grid-cols-2 ">
+      <div
+        className="grid grid-cols-1 place-items-center gap-10 
+       md:grid-cols-2 lg:grid-cols-2 "
+      >
         {/* LEFT SIDE */}
         <div className="flex flex-col items-center md:items-start gap-8">
           <NavLink to="/">
@@ -24,7 +27,7 @@ const Footer = () => {
           </p>
         </div>
         {/* RIGHT SIDE */}
-        <div className="flex flex-col items-center  gap-16">
+        <div className="flex flex-col items-center  gap-16 lg:gap-10">
           <div
             className="
             w-full flex flex-col item-center gap-24
