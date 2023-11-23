@@ -2,10 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+/* SCROLLBAR */
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+html::-webkit-scrollbar {
+  width: 0.8rem;
+}
+html::-webkit-scrollbar-thumb {
+  @apply bg-primary-blue-800;
+  border-radius: 0.5rem;
+}
+
+/* ACTIVE MENU */
 .navMenu.active {
   @apply text-primary-blue-400 border-b-2 border-primary-blue-400 pb-2;
- 
 }
+
 /* ====================  ANIMATIONS ==================== */
 
 /*  animation slide-left */
@@ -34,3 +48,18 @@
   }
 }
 
+/* glow effect */
+.glow{
+  animation: glow 1s ease-in-out infinite alternate;
+}
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #000f2d,
+      0 0 40px #000f2d, 0 0 50px #000f2d, 0 0 60px #000f2d, 0 0 70px #000f2d;
+  }
+
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #004ae2, 0 0 40px #004ae2,
+      0 0 50px #004ae2, 0 0 60px #004ae2, 0 0 70px #004ae2, 0 0 80px #004ae2;
+  }
+}
