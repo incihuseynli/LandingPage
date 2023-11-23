@@ -1,0 +1,312 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Minimalist House",
+      "units": "50 Units",
+      "image": "/project1.jpg",
+      "place": "London, The UK",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": [
+        {
+          "id": 1,
+          "text": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 2,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 3,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 4,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        }
+      ],
+      "price": "$20,000.00"
+    },
+    {
+      "id": 2,
+      "title": "Venenatis Magna",
+      "units": "50 Units",
+      "image": "/project2.jpg",
+      "place": "Bercelona, Spain",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": [
+        {
+          "id": 1,
+          "text": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 2,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 3,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 4,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        }
+      ],
+      "price": "$16,000.00"
+    },
+    {
+      "id": 3,
+      "title": "Hunting villa",
+      "units": "50 Units",
+      "image": "/project3.jpg",
+      "place": "California, Seaside",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": [
+        {
+          "id": 1,
+          "text": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 2,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 3,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 4,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        }
+      ],
+      "price": "$4,000.00"
+    },
+    {
+      "id": 4,
+      "title": "Vinchita Apartment",
+      "units": "50 Units",
+      "image": "/project4.jpg",
+      "place": "New York, USA",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": [
+        {
+          "id": 1,
+          "text": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 2,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 3,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 4,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        }
+      ],
+      "price": "$35,000.00"
+    },
+    {
+      "id": 5,
+      "title": "Denzel Haven",
+      "units": "50 Units",
+      "image": "/about1.jpg",
+      "place": "Mahaten, New york",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": [
+        {
+          "id": 1,
+          "text": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 2,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 3,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 4,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        }
+      ],
+      "price": "$16,000.00"
+    },
+    {
+      "id": 7,
+      "title": "Venenatis Magna",
+      "units": "50 Units",
+      "image": "/about2.jpg",
+      "place": "Bercelona, Spain",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": [
+        {
+          "id": 1,
+          "text": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 2,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 3,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 4,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        }
+      ],
+      "price": "$20,000.00"
+    }
+  ],
+  "about": [
+    {
+      "title": "Value we give to you",
+      "images": [
+        {
+          "id": 1,
+          "img1": "/about1.jpg"
+        },
+        {
+          "id": 2,
+          "img2": "/about2.jpg"
+        }
+      ],
+      "content": [
+        {
+          "id": 1,
+          "text": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 2,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 3,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 4,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        }
+      ]
+    }
+  ],
+  "reasons": [
+    {
+      "id": 1,
+      "title": "Communication",
+      "content": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "icon": ""
+    },
+    {
+      "id": 2,
+      "title": "Safety",
+      "content": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "icon": ""
+    },
+    {
+      "id": 3,
+      "title": "Quality First",
+      "content": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "icon": ""
+    },
+    {
+      "id": 4,
+      "title": "Best Prices",
+      "content": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "icon": ""
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "fullname": "John Doe",
+      "position": "Lead Engineer",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "image": "/member1.jpg"
+    },
+    {
+      "id": 2,
+      "fullname": "John Doe",
+      "position": "Lead Engineer",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "image": "/member2.jpg"
+    },
+    {
+      "id": 3,
+      "fullname": "John Doe",
+      "position": "Lead Engineer",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "image": "/member3.jpg"
+    },
+    {
+      "id": 4,
+      "fullname": "John Doe",
+      "position": "Lead Engineer",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "image": "/member4.jpg"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": 1,
+      "fname": "John Doe",
+      "job": "Co-founder of Loremista",
+      "content": "When applied to building block a website or similar work product, a Visual Guide can be an intermediate step toward the end goal of a complete website. By creating a visual guide along the way, the designer or developer can get input from the other people involved in the website such as the customer, their manager, and other members of the team.",
+      "image": "/smImg1.png"
+    },
+    {
+      "id": 2,
+      "fname": "John Doe",
+      "job": "Co-founder of Loremista",
+      "content": "When applied to building block a website or similar work product, a Visual Guide can be an intermediate step toward the end goal of a complete website. By creating a visual guide along the way, the designer or developer can get input from the other people involved in the website such as the customer, their manager, and other members of the team.",
+      "image": "/smImg2.png"
+    },
+    {
+      "id": 3,
+      "fname": "John Doe",
+      "job": "Co-founder of Loremista",
+      "content": "When applied to building block a website or similar work product, a Visual Guide can be an intermediate step toward the end goal of a complete website. By creating a visual guide along the way, the designer or developer can get input from the other people involved in the website such as the customer, their manager, and other members of the team.",
+      "image": "/smImg3.png"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "ArcLand will ready in less than a year to make you property.",
+      "content": "When applied to building block a website or similar work product, a Visual Guide can be an intermediate step toward the end goal of a complete website. By creating a visual guide along the way, the designer or developer can get input from the other people involved in the website such as the customer, their manager, and other members of the team.",
+      "image": "/blog1.jpg",
+      "date": "6 September, 2022",
+      "author": "Al Razi Siam"
+    },
+    {
+      "id": 2,
+      "title": "How arcLand achive thier customer satisfactions.",
+      "content": "When applied to building block a website or similar work product, a Visual Guide can be an intermediate step toward the end goal of a complete website. By creating a visual guide along the way, the designer or developer can get input from the other people involved in the website such as the customer, their manager, and other members of the team.",
+      "image": "/blog2.jpg",
+      "date": "10 August, 2022",
+      "author": "Zara Lesoner"
+    },
+    {
+      "id": 3,
+      "title": "We build porperty for you and your future.",
+      "content": "When applied to building block a website or similar work product, a Visual Guide can be an intermediate step toward the end goal of a complete website. By creating a visual guide along the way, the designer or developer can get input from the other people involved in the website such as the customer, their manager, and other members of the team.",
+      "image": "/blog3.jpg",
+      "date": "6 February, 2022",
+      "author": "Manab Sikder"
+    },
+    {
+      "id": 4,
+      "title": "Why are we here for make your dream.",
+      "content": "When applied to building block a website or similar work product, a Visual Guide can be an intermediate step toward the end goal of a complete website. By creating a visual guide along the way, the designer or developer can get input from the other people involved in the website such as the customer, their manager, and other members of the team.",
+      "image": "/blog4.jpg",
+      "date": "6 June, 2022",
+      "author": "Dive Washington"
+    }
+  ]
+}
