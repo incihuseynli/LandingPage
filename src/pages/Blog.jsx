@@ -1,11 +1,16 @@
-import React from 'react'
+import React from "react";
+import { Helmet } from "react-helmet";
 
 const Blog = () => {
   return (
-    <div>
-      
-    </div>
-  )
-}
+    <>
+      <Helmet>
+        <title>Bloq</title>
+        <meta name="description" content="Bloq yazılarımız" />
+      </Helmet>
+      <main></main>
+    </>
+  );
+};
 
-export default Blog
+export default Blog;
