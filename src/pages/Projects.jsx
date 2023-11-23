@@ -1,11 +1,16 @@
-import React from 'react'
+import React from "react";
+import { Helmet } from "react-helmet";
 
 const Projects = () => {
   return (
-    <div>
-      
-    </div>
-  )
-}
+    <>
+      <Helmet>
+        <title>Layihələrimiz</title>
+        <meta name="description" content="Layihələrimiz" />
+      </Helmet>
+      <main></main>
+    </>
+  );
+};
 
-export default Projects
+export default Projects;
