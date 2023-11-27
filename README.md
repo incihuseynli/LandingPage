@@ -6,7 +6,7 @@ This is a landing page for architecture company written with React JS and styled
 
 - [Overview](#overview)
   - [Screenshot](#screenshot) -[Installation](#installation)
-- [Technologies that I used for this projects](#technologies-that-I-used-for-this-projects)
+- [Technologies that I used for this projects](#technologies-that-i-used-for-this-projects)
   - [React JS](#react-js)
   - [Vite](#vite)
   - [Tailwind CSS](#tailwind-css)
@@ -19,9 +19,10 @@ This is a landing page for architecture company written with React JS and styled
 ### Screenshot
 
 ![](./public/desktop.png)
-![](./public/menu.png)
 ![](./public/mobile.png)
 ![](./public/tablet.png)
+
+![](./public/menu.png)
 
 ### Installation
 
