@@ -1,12 +1,11 @@
-import React from "react";
 import { NavLink } from "react-router-dom";
 
 const Btn = ({ btnText, btnPath }) => {
   return (
-    <NavLink
+      <NavLink
       to={btnPath}
       className="
-        w-48 h-16 rounded-md bg-primary-blue-400 font-poppins
+        w-48 h-16 rounded-2xl bg-primary-blue-400 font-poppins
         text-center text-secondary-white text-xl 
         capitalize pt-4 tracking-wider
         transition-all duration-300 
