@@ -1,0 +1,124 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "title": "ArcLand bir ildən az müddətdə sizə mülk etmək üçün hazır olacaq.",
+      "caption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "image": "/blog1.jpg",
+      "date": "6 sentyabr 2022-ci il",
+      "author": "Əl Razi Siam",
+      "views": "3,659",
+      "content": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta."
+    },
+    {
+      "id": 2,
+      "title": "ArcLand öz müştəri məmnuniyyətini necə əldə edir?",
+      "caption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "image": "/blog2.jpg",
+      "date": "10 avqust 2022-ci il",
+      "author": "Zara Lesoner",
+      "views": "6,896",
+      "content": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta."
+    },
+    {
+      "id": 3,
+      "title": "Biz sizin və gələcəyiniz üçün mülk qururuq",
+      "caption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "image": "/blog3.jpg",
+      "date": "6 fevral 2022-ci il",
+      "author": "Manab Sikder",
+      "views": "1096",
+      "content": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta."
+    },
+    {
+      "id": 4,
+      "title": "Xəyallarınızı həyata keçirmək üçün niyə buradayıq",
+      "caption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "image": "/blog4.jpg",
+      "date": "6 iyun 2022-ci il",
+      "author": "Dalış Vaşinqton",
+      "views": "5,673",
+      "content": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta."
+    },
+    {
+      "id": 5,
+      "title": "ArcLand bir ildən az müddətdə sizə mülk etmək üçün hazır olacaq",
+      "caption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "image": "/blog1.jpg",
+      "date": "6 sentyabr 2022-ci il",
+      "author": "Əl Razi Siam",
+      "views": "3,659",
+      "content": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta."
+    },
+    {
+      "id": 6,
+      "title": "ArcLand öz müştəri məmnuniyyətini necə əldə edir?",
+      "caption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "image": "/blog2.jpg",
+      "date": "10 avqust 2022-ci il",
+      "author": "Zara Lesoner",
+      "views": "6,896",
+      "content": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta."
+    },
+    {
+      "id": 7,
+      "title": "Biz sizin və gələcəyiniz üçün mülk qururuq",
+      "caption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "image": "/blog3.jpg",
+      "date": "6 fevral 2022-ci il",
+      "author": "Manab Sikder",
+      "views": "1096",
+      "content": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta."
+    },
+    {
+      "id": 8,
+      "title": "Xəyallarınızı həyata keçirmək üçün niyə buradayıq",
+      "caption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "image": "/blog4.jpg",
+      "date": "6 iyun 2022-ci il",
+      "author": "Dalış Vaşinqton",
+      "views": "5,673",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. "
+    },
+    {
+      "id": 9,
+      "title": "Biz sizin və gələcəyiniz üçün mülk qururuq",
+      "caption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "image": "/blog3.jpg",
+      "date": "6 fevral 2022-ci il",
+      "author": "Manab Sikder",
+      "views": "1096",
+      "content": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta."
+    },
+    {
+      "id": 10,
+      "title": "Xəyallarınızı həyata keçirmək üçün niyə buradayıq",
+      "caption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "image": "/blog4.jpg",
+      "date": "6 iyun 2022-ci il",
+      "author": "Dalış Vaşinqton",
+      "views": "5,673",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. "
+    },
+    {
+      "id": 11,
+      "title": "Biz sizin və gələcəyiniz üçün mülk qururuq",
+      "caption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "image": "/blog3.jpg",
+      "date": "6 fevral 2022-ci il",
+      "author": "Manab Sikder",
+      "views": "1096",
+      "content": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere voluptatibus tempore sunt aliquam odio quam ad molestias dignissimos mollitia soluta."
+    },
+    {
+      "id": 12,
+      "title": "Xəyallarınızı həyata keçirmək üçün niyə buradayıq",
+      "caption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "image": "/blog4.jpg",
+      "date": "6 iyun 2022-ci il",
+      "author": "Dalış Vaşinqton",
+      "views": "5,673",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. "
+    }
+  ]
+}

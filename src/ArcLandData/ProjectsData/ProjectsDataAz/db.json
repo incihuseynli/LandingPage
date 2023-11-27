@@ -1,0 +1,125 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Minimalist Ev",
+      "units": "50 ədəd",
+      "image1": "/project1.jpg",
+      "image2": "/project2.jpg",
+      "image3": "/project3.jpg",
+      "place": "London, Böyük Britaniya",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque ",
+      "price": "20,000.00 azn"
+    },
+    {
+      "id": 2,
+      "title": "Venenatis Magna",
+      "units": "50 ədəd",
+      "image1": "/project2.jpg",
+      "image2": "/project3.jpg",
+      "image3": "/project1.jpg",
+      "place": "Barselona, ​​İspaniya",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque ",
+      "price": "16,000.00 azn"
+    },
+    {
+      "id": 3,
+      "title": "Ov villası",
+      "units": "50 ədəd",
+      "image1": "/project3.jpg",
+      "image2": "/project4.jpg",
+      "image3": "/project2.jpg",
+      "place": "Kaliforniya, Dənizkənarı",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque ",
+      "price": "4,000.00 azn"
+    },
+    {
+      "id": 4,
+      "title": "Vinchita Mənzil",
+      "units": "50 ədəd",
+      "image1": "/project4.jpg",
+      "image2": "/project1.jpg",
+      "image3": "/project3.jpg",
+      "place": "Nyu York, ABŞ",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque ",
+      "price": "35,000.00 azn"
+    },
+    {
+      "id": 6,
+      "title": "Denzel Haven",
+      "units": "50 ədəd",
+      "image1": "/about1.jpg",
+      "image2": "/about2.jpg",
+      "image3": "/about1.jpg",
+      "place": "Mahaten, Nyu-York",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque ",
+      "price": "16,000.00 azn"
+    },
+    {
+      "id": 5,
+      "title": "Denzel Haven",
+      "units": "50 ədəd",
+      "image1": "/about1.jpg",
+      "image2": "/about2.jpg",
+      "image3": "/about1.jpg",
+      "place": "Mahaten, Nyu-York",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque ",
+      "price": "16,000.00 azn"
+    },
+    {
+      "id": 7,
+      "title": "Venenatis Magna",
+      "units": "50 ədəd",
+      "image1": "/about2.jpg",
+      "image2": "/about1.jpg",
+      "image3": "/about1.jpg",
+      "place": "Barselona, ​​İspaniya",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque ",
+
+      "price": "20,000.00 azn"
+    },
+    {
+      "id": 8,
+      "title": "Venenatis Magna",
+      "units": "50 ədəd",
+      "image1": "/project2.jpg",
+      "image2": "/project3.jpg",
+      "image3": "/project1.jpg",
+      "place": "Barselona, ​​İspaniya",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque ",
+      "price": "16,000.00 azn"
+    },
+    {
+      "id": 9,
+      "title": "Ov villası",
+      "units": "50 ədəd",
+      "image1": "/project4.jpg",
+      "image2": "/project3.jpg",
+      "image3": "/project1.jpg",
+      "place": "Kaliforniya, Dənizkənarı",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque ",
+      "price": "4,000.00 azn"
+    },
+    {
+      "id": 10,
+      "title": "Vinchita Mənzil",
+      "units": "50 ədəd",
+      "image1": "/project2.jpg",
+      "image2": "/project3.jpg",
+      "image3": "/project4.jpg",
+      "place": "Nyu York, ABŞ",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque ",
+      "price": "35,000.00 azn"
+    }
+  ]
+}

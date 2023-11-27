@@ -1,0 +1,116 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Minimalist House",
+      "units": "50 Units",
+      "image": "/project1.jpg",
+      "place": "London, The UK",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": "Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium",
+
+      "price": "$20,000.00"
+    },
+    {
+      "id": 2,
+      "title": "Venenatis Magna",
+      "units": "50 Units",
+      "image": "/project2.jpg",
+      "place": "Bercelona, Spain",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": "Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium",
+
+      "price": "$16,000.00"
+    },
+    {
+      "id": 3,
+      "title": "Hunting villa",
+      "units": "50 Units",
+      "image": "/project3.jpg",
+      "place": "California, Seaside",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": "Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium",
+      "price": "$4,000.00"
+    },
+    {
+      "id": 4,
+      "title": "Vinchita Apartment",
+      "units": "50 Units",
+      "image": "/project4.jpg",
+      "place": "New York, USA",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": "Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium",
+
+      "price": "$35,000.00"
+    },
+    {
+      "id": 5,
+      "title": "Denzel Haven",
+      "units": "50 Units",
+      "image": "/about1.jpg",
+      "place": "Mahaten, New york",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": "Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium",
+
+      "price": "$16,000.00"
+    },
+    {
+      "id": 7,
+      "title": "Venenatis Magna",
+      "units": "50 Units",
+      "image": "/about2.jpg",
+      "place": "Bercelona, Spain",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": [
+        {
+          "id": 1,
+          "text": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 2,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 3,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        },
+        {
+          "id": 4,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium"
+        }
+      ],
+      "price": "$20,000.00"
+    },
+    {
+      "id": 7,
+      "title": "Minimalist House",
+      "units": "50 Units",
+      "image": "/project1.jpg",
+      "place": "London, The UK",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": "Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium",
+
+      "price": "$20,000.00"
+    },
+    {
+      "id": 8,
+      "title": "Venenatis Magna",
+      "units": "50 Units",
+      "image": "/project2.jpg",
+      "place": "Bercelona, Spain",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": "Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium",
+      "price": "$16,000.00"
+    },
+    {
+      "id": 9,
+      "title": "Hunting villa",
+      "units": "50 Units",
+      "image": "/project3.jpg",
+      "place": "California, Seaside",
+      "caption": "I want you to take it to the next level. Can you use a high definition screenshot I really like the colour but can you change",
+      "content": "Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium",
+      "price": "$4,000.00"
+    }
+  ]
+}

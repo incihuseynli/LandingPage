@@ -1,0 +1,92 @@
+{
+  "about": [
+    {
+      "id": 1,
+      "pageTitle": "Haqqımızda",
+      "title": "Sizə verdiyimiz dəyəri hiss edin",
+      "img1": "/about1.jpg",
+      "img2": "/about2.jpg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit.  Perspiciatis repellat similique doloremque eaque ipsum iste  harum cumque neque nesciunt facilis unde facere quos sed est,  quisquam quam aliquam quidem dignissimos sint, ipsa odit ab.  Adipisci vel, itaque earum fugit doloribus repudiandae error  impedit aliquam laudantium, perspiciatis reiciendis molestiae  reprehenderit quibusdam, minus voluptatum blanditiis iusto sequi  in. Similique totam, id ipsam eos consequatur praesentium magni  ratione reiciendis quo tenetur quod enim !minus voluptatum  blanditiis iusto sequi in. Similique totam, id ipsam eos  consequatur praesentium magni ratione reiciendis quo tenetur  quod enim !",
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit.  Perspiciatis repellat similique.Lorem ipsum dolor sit amet consectetur adipisicing elit.  Perspiciatis repellat similique "
+    }
+  ],
+  "reasons": [
+    {
+      "id": 1,
+      "title": "Əlaqə",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "icon": "./communicationIcon.svg"
+    },
+    {
+      "id": 2,
+      "title": "Safety",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "icon": "./safetyIcon.svg"
+    },
+    {
+      "id": 3,
+      "title": "Quality First",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "icon": "./qualityIcon.svg"
+    },
+    {
+      "id": 4,
+      "title": "Best Prices",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "icon": "./priceIcon.svg"
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "fullname": "John Doe",
+      "position": "Lead Engineer",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "image": "/member1.jpg"
+    },
+    {
+      "id": 2,
+      "fullname": "John Doe",
+      "position": "Lead Engineer",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "image": "/member2.jpg"
+    },
+    {
+      "id": 3,
+      "fullname": "John Doe",
+      "position": "Lead Engineer",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "image": "/member3.jpg"
+    },
+    {
+      "id": 4,
+      "fullname": "John Doe",
+      "position": "Lead Engineer",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "image": "/member4.jpg"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": 1,
+      "fname": "John Doe",
+      "job": "Loremista | Co-founder",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "image": "/smImg1.png"
+    },
+    {
+      "id": 2,
+      "fname": "John Doe",
+      "job": "Loremista | Co-founder",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "image": "/smImg2.png"
+    },
+    {
+      "id": 3,
+      "fname": "John Doe",
+      "job": "Loremista | Co-founder",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque inventore, maiores soluta nisi debitis consequatur vero aperiam voluptates ut! Optio consectetur nesciunt alias modi quidem!",
+      "image": "/smImg3.png"
+    }
+  ]
+}
