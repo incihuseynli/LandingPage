@@ -6,7 +6,7 @@ This is a landing page for architecture company written with React JS and styled
 
 - [Overview](#overview)
   - [Screenshot](#screenshot) -[Installation](#installation)
-- [Technologies that I used for this projects](#technologies-that-i-used-for-this-projects)
+- [Technologies that I used for this project](#technologies-that-i-used-for-this-project)
   - [React JS](#react-js)
   - [Vite](#vite)
   - [Tailwind CSS](#tailwind-css)
@@ -32,7 +32,7 @@ To run project locally wrote code line below in terminal of project root
 npm run dev
 ```
 
-## Technologies that I used for this projects
+## Technologies that I used for this project
 
 ### React JS
 
