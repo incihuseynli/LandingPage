@@ -6,7 +6,7 @@ This is a landing page for architecture company written with React JS and styled
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  -[Installation](#installation)
+  - [Installation](#installation)
 - [Technologies that I used for this project](#technologies-that-i-used-for-this-project)
   - [React JS](#react-js)
   - [Vite](#vite)
