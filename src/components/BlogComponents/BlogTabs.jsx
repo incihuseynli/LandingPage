@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 import RevealAnimation from "../RevealAnimation";
 
 const BlogTabs = () => {
-  const URL = "http://localhost:3030/blog?_limit=4";
+  const URL = "https://my-json-server.typicode.com/dbForProjects/BlogDatas/blog?_limit=4";
   const [posts, setPosts] = useState([]);
   useEffect(() => {
     Axios.get(URL).then(({ data }) => {

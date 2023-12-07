@@ -1,4 +1,3 @@
-import React from "react";
 import { Route, Routes, useLocation } from "react-router-dom";
 import { Paths } from "./Paths";
 import Header from "./HeaderComponents/Header.jsx";

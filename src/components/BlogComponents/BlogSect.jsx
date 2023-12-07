@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 import Axios from "axios";
 import RevealAnimation from "../RevealAnimation";
 const BlogSect = () => {
-  const URL = "http://localhost:3030/blog?_limit=4";
+  const URL = "https://my-json-server.typicode.com/dbForProjects/BlogDatas/blog?_limit=4";
 
   const [posts, setPosts] = useState([]);
   useEffect(() => {
