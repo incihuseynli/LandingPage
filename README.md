@@ -20,6 +20,7 @@ This is a landing page for architecture company written with React JS and styled
 
 ![](./public/desktop.png)
 ![](./public/menu.png)
+
 ![](./public/mobile.png)
 ![](./public/tablet.png)
 
