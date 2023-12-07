@@ -5,8 +5,9 @@ This is a landing page for architecture company written with React JS and styled
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot) -[Installation](#installation)
-- [Technologies that I used for this projects](#technologies-that-I-used-for-this-projects)
+  - [Screenshot](#screenshot)
+  - [Installation](#installation)
+- [Technologies that I used for this project](#technologies-that-i-used-for-this-project)
   - [React JS](#react-js)
   - [Vite](#vite)
   - [Tailwind CSS](#tailwind-css)
@@ -20,9 +21,10 @@ This is a landing page for architecture company written with React JS and styled
 
 ![](./public/desktop.png)
 ![](./public/menu.png)
-
 ![](./public/mobile.png)
 ![](./public/tablet.png)
+
+![](./public/menu.png)
 
 ### Installation
 
@@ -32,7 +34,7 @@ To run project locally wrote code line below in terminal of project root
 npm run dev
 ```
 
-## Technologies that I used for this projects
+## Technologies that I used for this project
 
 ### React JS
 
